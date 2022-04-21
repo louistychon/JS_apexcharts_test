@@ -4,6 +4,13 @@ body {
   }
 
 #chart {
-    max-width: 650px;
+    max-width: 1000px;
     margin: 35px auto;
+    border: 1px solid lightgrey;
   }
+/* 
+  #charttwo {
+    max-width: 1000px;
+    margin: 35px auto;
+    border: 1px solid lightgrey;
+  } */
